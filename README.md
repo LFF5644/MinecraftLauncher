@@ -5,7 +5,7 @@ sauber und ordenlich
 ### TODOs
 - [ ] andere versionen einbinden
 - [ ] versionen von minecraft api herrunterladen
-- [ ] versionen auswählen
+- [x] versionen auswählen
 - [ ] GUI zum einstellen von daten (username)
 - [ ] welten backup
 
