@@ -1,12 +1,12 @@
 # Minecraft Launcher By LFF5644
-startet minecraft ohne internet!
-sauber und ordenlich
+Startet Minecraft ohne internet!
+Sauber und ordentlich
 
 ### TODOs
-- [ ] andere versionen einbinden
-- [ ] versionen von minecraft api herrunterladen
-- [x] versionen auswählen
-- [ ] GUI zum einstellen von daten (username)
-- [ ] welten backup
+- [ ] Andere Versionen einbinden
+- [ ] Versionen von Minecraft api Herunterladen
+- [x] Versionen auswählen
+- [ ] GUI zum einstellen von Daten (username)
+- [ ] Welten backup
 
 ###### Quelle by [minecraft](https://minecraft.net)
