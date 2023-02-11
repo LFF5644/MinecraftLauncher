@@ -9,4 +9,4 @@ Sauber und ordentlich
 - [ ] GUI zum einstellen von Daten (username)
 - [ ] Welten backup
 
-###### Quelle by [minecraft](https://minecraft.net)
+###### Quelle by [Minecraft](https://minecraft.net)
